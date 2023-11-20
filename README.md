@@ -18,7 +18,7 @@ House prices info was scraped from realtor.com
 
 A star schema model was applied to the data.
 
-![plot](starschema.png)
+![alt text](star_schema.png)
 
 School rankings and real estate data were then combined into a single fact table.
 The data was then exported into .CSV format and pulled into Tableau for visualization.
