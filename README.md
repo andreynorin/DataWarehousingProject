@@ -25,6 +25,6 @@ Use Tableau to generate visualizations to see if any trends can be spotted.
 
 ![alt text](/DataVis/MostListedHomes.png)
 
-![alt text](DataVis/NassauCountySchoolDistricts.png)
+![alt text](/DataVis/NassauCountySchoolDistricts.png)
 
-![alt text](DataVis/SuffolkCountySchoolDistricts.png)
+![alt text](/DataVis/SuffolkCountySchoolDistricts.png)
