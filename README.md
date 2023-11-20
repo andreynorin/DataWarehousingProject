@@ -1,26 +1,22 @@
-# DataWarehousingProject
+I completed this project in December 2022 as part of the Data Warehousing For Analytics class.
 
-I completed this project in December 2022 as part of the Data Warehousing 
-For Analytics class.
+### Project objective:
+Determine if there is any correlation between K12 school ratings and house prices in Suffolk and Nassau counties on Long Island, NY.
 
-Project objective:
+### Data sourcing: 
+Build two Python web scrapers: one for scraping school ranking data and another one for scraping real estate inventory.
 
-Determine if there is any correlation between K12 school ratings and house
-prices in Suffolk and Nassau counties on Long Island, NY.
-
-Build two web scrapers: one for scraping school ranking data and another one
-for scraping real estate inventory.
-
-School ranking data was scraped from:
+- School ranking data was scraped from:
 https://www.realestatehudsonvalleyny.com/resources/best-school-districts-long-island/
 
-House prices info was scraped from realtor.com
+- Housing inventory information was scraped from realtor.com
 
-A star schema model was applied to the data.
-
+### Data modeling:
+Apply star schema to the data.  Use MySQL Workbench ER modeling feauture to create the UML diagram.
 ![alt text](star_schema.png)
 
-School rankings and real estate data were then combined into a single fact table.
-The data was then exported into .CSV format and pulled into Tableau for visualization.
+### Data processing:
+Process and merge sourced data and produce two .CSV files ready for data visualizaiton.
 
-Resulting visualizations can be viewed in the DataVis directory.
+### Data visualization:
+Use Tableau to generate visualizations to see if any trends can be spotted.
