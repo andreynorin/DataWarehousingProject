@@ -20,3 +20,11 @@ Process and merge sourced data and produce two .CSV files ready for data visuali
 
 ### Data visualization:
 Use Tableau to generate visualizations to see if any trends can be spotted.
+
+![alt text](AvgHousePriceByDistrictRating.png)
+
+![alt text](MostListedHomes.png)
+
+![alt text](NassauCountySchoolDistricts.png)
+
+![alt text](SuffolkCountySchoolDistricts.png)
